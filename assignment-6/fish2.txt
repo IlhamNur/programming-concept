@@ -1,0 +1,6 @@
+Crimson Flashfish = Crimson Flashfish+ Spined Flashfish
+Greenfin Flashfish = Stubby Carb + Finless Snout
+Greeenfin Goldshark = Finless Snout + Stubby Goldbulb
+Greenfin Stickfish = Great-Sail Quicksilver + Razorback Snooper
+Greenfin Fruitfish = Finless snout + Stubby Grouper
+Crimson Goldbulb = Stubby Carp + Golden Snooper

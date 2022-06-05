@@ -1,0 +1,6 @@
+Crimson Flashfish = Crimson Flashfish+ Spined Flashfish
+Crimson Fruitfish = Crimson Flashfish+ Crimson Fruitfish
+Crimson Snooper = Golden Snooper + Spined  Goldshark
+Crimson Goldshark = Golden Snooper + Stubby Fire-arrow
+Crimson Fire-Arrow = Crimson Flashfish + Crimson Snooper
+Crimson Goldbulb = Stubby Carp + Golden Snooper
